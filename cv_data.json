@@ -1,0 +1,197 @@
+[
+  {
+    "fullName": "maruf",
+    "email": "ma@gmail.com",
+    "phone": "0164534",
+    "address": "AUAH",
+    "degree": "",
+    "institute": "",
+    "passingYear": "",
+    "cgpa": "",
+    "company": "baust",
+    "position": "lecturer",
+    "durationFrom": "1999-09",
+    "durationTo": "2025-12",
+    "responsibilities": "gfhgjhkkjhgfdfghj",
+    "totalExperienceYears": 26.250513347022586,
+    "skills": [
+      "gwhnjmk,tyl",
+      "dfdghjmhk"
+    ],
+    "projects": [
+      {
+        "title": "erghjmedxnj",
+        "description": "dcfgbhnmjry,tkj fgfshngdbvg dhg",
+        "technologies": "rfgbhnjm"
+      }
+    ]
+  },
+  {
+    "fullName": "ytdbcudcgdjc",
+    "email": "abc@gmail.com",
+    "phone": "34567899",
+    "address": "Afshgd",
+    "degree": "BSc",
+    "institute": "baust",
+    "passingYear": "2028",
+    "cgpa": "3.8",
+    "company": "",
+    "position": "",
+    "durationFrom": "",
+    "durationTo": "",
+    "responsibilities": "",
+    "totalExperienceYears": 0.0,
+    "skills": [],
+    "projects": []
+  },
+  {
+    "fullName": "maynul",
+    "email": "m@gmail.com",
+    "phone": "355",
+    "address": "AUAH",
+    "degree": "B.Sc",
+    "institute": "baust",
+    "passingYear": "2028",
+    "cgpa": "3.7",
+    "company": "baust",
+    "position": "student",
+    "durationFrom": "2030-1",
+    "durationTo": "Present",
+    "responsibilities": "sdfgh",
+    "totalExperienceYears": -4.101687522466854,
+    "skills": [
+      "ai expert"
+    ],
+    "projects": [
+      {
+        "title": "cvbuilder",
+        "description": "-",
+        "technologies": "java swing"
+      }
+    ]
+  },
+  {
+    "fullName": "Md.Maruf Siddiki",
+    "email": "maruf@gmail.com",
+    "phone": "01722999888",
+    "address": "AUAH",
+    "degree": "B.Sc in CSE",
+    "institute": "BAUST",
+    "passingYear": "2028",
+    "cgpa": "3.5",
+    "company": "rfl",
+    "position": "salesman",
+    "durationFrom": "2015-1",
+    "durationTo": "2019-2",
+    "responsibilities": "hokar",
+    "totalExperienceYears": 4.084873374401095,
+    "skills": [
+      "bachal",
+      "sales expart"
+    ],
+    "projects": [
+      {
+        "title": "Calculator",
+        "description": "swing based calculator",
+        "technologies": "java swing"
+      }
+    ]
+  },
+  {
+    "fullName": "Sumon",
+    "email": "sumon@gmail.com",
+    "phone": "0172345676",
+    "address": "Dinajpur",
+    "degree": "B.SC Engg in CSE",
+    "institute": "Govt College",
+    "passingYear": "2025",
+    "cgpa": "3.94",
+    "company": "Baust",
+    "position": "Lecturer",
+    "durationFrom": "2023-06",
+    "durationTo": "2025-07",
+    "responsibilities": "Teach programming Language",
+    "totalExperienceYears": 2.083504449007529,
+    "skills": [],
+    "projects": [
+      {
+        "title": "Mechaine Learning",
+        "description": "Teach a mini robout to calculate the sum",
+        "technologies": "python"
+      },
+      {
+        "title": "AI",
+        "description": "Healthcare system by ai",
+        "technologies": "Python"
+      }
+    ]
+  },
+  {
+    "fullName": "Anisul",
+    "email": "anisul@gmail.com",
+    "phone": "123456",
+    "address": "Rangpur",
+    "degree": "B.Sc Engg in CSE",
+    "institute": "Baust",
+    "passingYear": "2023",
+    "cgpa": "4",
+    "company": "Baust",
+    "position": "Lecturer",
+    "durationFrom": "2020-04",
+    "durationTo": "2023-5",
+    "responsibilities": "Teach CSE subject",
+    "totalExperienceYears": 3.080082135523614,
+    "skills": [
+      "expert in c++"
+    ],
+    "projects": [
+      {
+        "title": "Worker management",
+        "description": "",
+        "technologies": ""
+      },
+      {
+        "title": "Hotel management",
+        "description": "",
+        "technologies": ""
+      }
+    ]
+  },
+  {
+    "fullName": "Maynul",
+    "email": "maynul@gmail.com",
+    "phone": "09876543",
+    "address": "auah",
+    "degree": "bsc",
+    "institute": "baust",
+    "passingYear": "2029",
+    "cgpa": "3.5",
+    "company": "Gooogle",
+    "position": "ai user",
+    "durationFrom": "2021-1",
+    "durationTo": "Present",
+    "responsibilities": "using ai",
+    "totalExperienceYears": 4.898031756502395,
+    "skills": [
+      "expert ai user",
+      "java"
+    ],
+    "projects": [
+      {
+        "title": "Calculator",
+        "description": "java swing based simple calculator",
+        "technologies": "java swing"
+      },
+      {
+        "title": "CvBuilder",
+        "description": "a unique cv builder with admin panel",
+        "technologies": "java swing"
+      },
+      {
+        "title": "medicalAssistantToolkit",
+        "description": "",
+        "technologies": "javaFx"
+      }
+    ]
+  }
+]
